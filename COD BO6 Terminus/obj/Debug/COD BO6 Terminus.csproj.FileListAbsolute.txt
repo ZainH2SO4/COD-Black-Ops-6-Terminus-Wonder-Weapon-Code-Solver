@@ -1,0 +1,9 @@
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\obj\Debug\COD BO6 Terminus.csproj.AssemblyReference.cache
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\obj\Debug\COD_BO6_Terminus.Properties.Resources.resources
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\obj\Debug\COD BO6 Terminus.csproj.GenerateResource.cache
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\obj\Debug\COD BO6 Terminus.csproj.CoreCompileInputs.cache
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\bin\Debug\COD BO6 Terminus.exe.config
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\bin\Debug\COD BO6 Terminus.exe
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\bin\Debug\COD BO6 Terminus.pdb
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\obj\Debug\COD BO6 Terminus.exe
+C:\Users\H2SO4\source\repos\COD BO6 Terminus\COD BO6 Terminus\obj\Debug\COD BO6 Terminus.pdb
